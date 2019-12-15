@@ -1,0 +1,7 @@
+master a 3
+master a 4
+<<<<<<< HEAD
+sit a 5
+=======
+master a 5
+>>>>>>> 4184104... master a 5
